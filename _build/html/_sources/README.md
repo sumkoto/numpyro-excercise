@@ -1,0 +1,2 @@
+# numpyro-excercise
+numpyroのことを理解するためのいろいろな実験の集まり
